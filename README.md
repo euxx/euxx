@@ -23,5 +23,9 @@
 <br>
 
 <p align="center">
+  Hi, I'm eux, a Web developer from Chengdu, China.
+</p>
+
+<p align="center">
   A little bit more on <a href="https://eux.one">eux.one</a>
 </p>
