@@ -29,3 +29,6 @@
 <p align="center">
   A little bit more on <a href="https://eux.one">eux.one</a>
 </p>
+
+<img width=0 alt="Views Counter" src="https://komarev.com/ghpvc/?username=eux.profile">
+<img width=0 alt="Views Counter" src="https://visitor-badge.laobi.icu/badge?page_id=eux.profile">
