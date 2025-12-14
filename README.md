@@ -46,7 +46,7 @@
 <br>
 
 <p align="center">
-  Hi, I'm eux, a Web developer from Chengdu, China.
+  Hi, I'm eux, a developer from Chengdu, China.
 </p>
 
 <p align="center">
