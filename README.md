@@ -2,15 +2,15 @@
   <picture>
     <source
       type="image/svg+xml"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=euxx&theme=vue-dark&hide_border=true&layout=compact"
+      srcset="https://github-readme-stats-eux.vercel.app/api/top-langs/?username=euxx&theme=vue-dark&hide_border=true&layout=compact"
       media="(prefers-color-scheme: dark)"
     >
     <source
       type="image/svg+xml"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=euxx&theme=vue&hide_border=true&layout=compact"
+      srcset="https://github-readme-stats-eux.vercel.app/api/top-langs/?username=euxx&theme=vue&hide_border=true&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
-    <img alt="Top Languages of eux" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euxx&theme=vue&hide_border=true&layout=compact">
+    <img alt="Top Languages of eux" src="https://github-readme-stats-eux.vercel.app/api/top-langs/?username=euxx&theme=vue&hide_border=true&layout=compact">
   </picture>
 </a>
 
@@ -18,16 +18,16 @@
   <picture>
     <source
       type="image/svg+xml"
-      srcset="https://github-readme-stats.vercel.app/api?username=euxx&theme=vue-dark&hide_border=true&count_private=true&hide=stars,issues&show_icons=true"
+      srcset="https://github-readme-stats-eux.vercel.app/api?username=euxx&theme=vue-dark&hide_border=true&count_private=true&hide=stars,issues&show_icons=true"
       media="(prefers-color-scheme: dark)"
     >
     <source
       type="image/svg+xml"
-      srcset="https://github-readme-stats.vercel.app/api?username=euxx&theme=vue&hide_border=true&count_private=true&hide=stars,issues&show_icons=true"
+      srcset="https://github-readme-stats-eux.vercel.app/api?username=euxx&theme=vue&hide_border=true&count_private=true&hide=stars,issues&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     >
     <img alt="Top Languages of eux" align="right" width=440
-      src="https://github-readme-stats.vercel.app/api?username=euxx&theme=vue&hide_border=true&count_private=true&hide=stars,issues&show_icons=true">
+      src="https://github-readme-stats-eux.vercel.app/api?username=euxx&theme=vue&hide_border=true&count_private=true&hide=stars,issues&show_icons=true">
   </picture>
 </a>
 
