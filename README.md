@@ -53,6 +53,7 @@ Apps and tools I built and use daily.
 
 - <img src="https://github.com/euxx/github-copilot-usage/raw/main/images/icon.png" width="20" align="absmiddle"> [**GitHub Copilot Usage**](https://github.com/euxx/github-copilot-usage) - Shows Copilot Premium request quota usage in the VS Code status bar
 - <img src="https://github.com/euxx/claude-skills-for-copilot/raw/main/images/icon.png" width="20" align="absmiddle"> [**Claude Skills for Copilot**](https://github.com/euxx/claude-skills-for-copilot) - Agent skills for GitHub Copilot: code review, feature dev, frontend design, and more
+- <img src="https://github.com/euxx/editor-tweaks/raw/main/images/icon.png" width="20" align="absmiddle"> [**Editor Tweaks**](https://github.com/euxx/editor-tweaks) - A collection of small VS Code editor utilities packed into a single extension
 
 <p align="center">
   A little bit more on <a href="https://eux.one">eux.one</a>
