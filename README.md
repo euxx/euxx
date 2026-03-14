@@ -47,10 +47,13 @@
 
 Apps and tools I built and use daily.
 
+**macOS**
 - <img src="https://github.com/euxx/volume-grid/raw/main/.github/assets/icon.png" width="20" align="absmiddle"> [**Volume Grid**](https://github.com/euxx/volume-grid) - Classic 16-tile volume HUD for macOS Tahoe 26, with output device switching and multi-display support
 
+**Browser**
 - <img src="https://github.com/euxx/github-notifier-pro/raw/main/images/icon.png" width="20" align="absmiddle"> [**GitHub Notifier Pro**](https://github.com/euxx/github-notifier-pro) - GitHub notifications in the browser toolbar, supports Chrome and Firefox
 
+**VS Code**
 - <img src="https://github.com/euxx/github-copilot-usage/raw/main/images/icon.png" width="20" align="absmiddle"> [**GitHub Copilot Usage**](https://github.com/euxx/github-copilot-usage) - Shows Copilot Premium request quota usage in the VS Code status bar
 - <img src="https://github.com/euxx/claude-skills-for-copilot/raw/main/images/icon.png" width="20" align="absmiddle"> [**Claude Skills for Copilot**](https://github.com/euxx/claude-skills-for-copilot) - Agent skills for GitHub Copilot: code review, feature dev, frontend design, and more
 - <img src="https://github.com/euxx/editor-tweaks/raw/main/images/icon.png" width="20" align="absmiddle"> [**Editor Tweaks**](https://github.com/euxx/editor-tweaks) - A collection of small VS Code editor utilities packed into a single extension
