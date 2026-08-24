@@ -49,6 +49,7 @@ Apps and tools I built and use daily.
 
 **macOS**
 - <img src="https://github.com/euxx/volume-grid/raw/main/.github/assets/icon.png" width="20" align="absmiddle"> [**Volume Grid**](https://github.com/euxx/volume-grid) - Classic 16-tile volume HUD for macOS Tahoe 26, with output device switching and multi-display support
+- <img src="https://github.com/euxx/copied/raw/main/.github/assets/icon.png" width="20" align="absmiddle"> [**Copied**](https://github.com/euxx/copied) - Brief, consistent visual feedback when copying succeeds
 
 **Browser**
 - <img src="https://github.com/euxx/github-notifier-pro/raw/main/images/icon.png" width="20" align="absmiddle"> [**GitHub Notifier Pro**](https://github.com/euxx/github-notifier-pro) - GitHub notifications in the browser toolbar, supports Chrome and Firefox
